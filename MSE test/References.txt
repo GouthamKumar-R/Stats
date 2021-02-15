@@ -1,0 +1,17 @@
+https://www.reneshbedre.com/blog/anova.html
+
+https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/
+
+Virtanen P, Gommers R, Oliphant TE, Haberland M, Reddy T, Cournapeau D, Burovski E, Peterson P, Weckesser W, Bright J, van der Walt SJ. SciPy 1.0: fundamental algorithms for scientific computing in Python. Nature methods. 2020 Mar;17(3):261-72.
+Bewick V, Cheek L, Ball J. Statistics review 8: Qualitative data–tests of association. Critical care. 2003 Feb 1;8(1):46.
+Serra N, Rea T, Di Carlo P, Sergi C. Continuity correction of Pearson’s chi-square test in 2x2 Contingency Tables: A mini-review on recent development. Epidemiology, Biostatistics and Public Health. 2019 Jun 21;16(2)
+
+https://setosa.io/ev/ordinary-least-squares-regression/
+
+http://www.clockbackward.com/2009/06/18/ordinary-least-squares-linear-regression-flaws-problems-and-pitfalls/
+
+https://machinelearningmastery.com/linear-regression-for-machine-learning/
+
+https://towardsdatascience.com/linear-regression-from-scratch-cd0dee067f72
+
+https://datatofish.com/multiple-linear-regression-python/
